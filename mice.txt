@@ -1,5 +1,5 @@
-m mammal
-o optical
-u unique
-s small
-e eager
+m mammals
+o opticals
+u uniques
+s smalls
+e eagers
